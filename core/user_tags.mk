@@ -65,6 +65,7 @@ GRANDFATHERED_USER_MODULES += \
 	brcm_patchram_plus \
 	bugreport \
 	busybox \
+	buzz-keypad.kcm \
 	cfassembler \
 	check_stack \
 	check_trace \
@@ -128,6 +129,7 @@ GRANDFATHERED_USER_MODULES += \
 	genext2fs \
 	gps.bravo \
 	gps.bravoc \
+        gps.buzz \
 	gps.mahimahi \
 	gralloc.default \
 	gralloc.qsd8k \
